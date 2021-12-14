@@ -39,7 +39,7 @@ window.addEventListener('load', function handler() {
         }
       }
       if (counter > 8 && getWinner() === undefined) {
-        final('Ничья');
+        final('Match DRAW');
       }
     }
   }
